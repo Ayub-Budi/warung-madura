@@ -1,5 +1,10 @@
 # warung-madura
 
+## Link Aplikasi
+
+Anda dapat mengakses aplikasi yang sudah di-hosting di link berikut:
+[Warung Madura](https://warung-madura-ayub.netlify.app/)
+
 ## Prasyarat
 
 Pastikan Anda telah menginstal perangkat lunak berikut:
